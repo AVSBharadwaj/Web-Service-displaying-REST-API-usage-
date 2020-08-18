@@ -1,0 +1,15 @@
+{
+  "name": "rest_demo",
+  "version": "1.0.0",
+  "description": "Package to demonstrate REST api working",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "avs bharadwaj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.2.0"
+  }
+}
